@@ -11,7 +11,7 @@ Here you’ll find projects reflecting my software development journey and commi
 Let’s connect and collaborate!
 </h3>
 
-- 🔭 Currently working on [Sark Thmor Mobile](https://github.com/DiamondLuver/sark_thmor_mobile)
+- 🔭 Currently working on [Techo Startup Internship AI Full Stack](https://techostartup.center/)
 - 🌱 Currently learning **Python, Dart, Flutter, C, C++, HTML, CSS, Java, JavaScript**
 
 <h3 align="left">Connect with me:</h3>
